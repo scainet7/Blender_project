@@ -15,7 +15,7 @@
 Here are my projects made during the Blender 3D course.
 
 ### Projects:
-1. Knight() - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the VKontakte page (https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+1. [Knight]() - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
 
 ## Содержание
 1. [Что это](#Что-это)
@@ -26,4 +26,4 @@ Here are my projects made during the Blender 3D course.
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
 
 ### Проекты:
-1. Рыцарь() - Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице вконтакте(https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+1. [Рыцарь]() - Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице [Вконтакте](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
