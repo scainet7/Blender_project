@@ -9,13 +9,13 @@
 ## Content
 1. [What is it](#What-is-it)
 2. [Projects:](#Projects:)
-    1. [Knight](#Knight) - The project was completed during training in a free course at the KNOWER online school.
+    a. [Knight](#Knight) - The project was completed during training in a free course at the KNOWER online school.
 
 ### What is it
 Here are my projects made during the Blender 3D course.
 
 ### Projects:
-1. [Knight](https://github.com/scainet7/Blender_project/tree/master/Knight) - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+1. [Knight](#Knight)(https://github.com/scainet7/Blender_project/tree/master/Knight) - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png"/>
 </div>
