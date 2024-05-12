@@ -9,13 +9,15 @@
 ## Content
 1. [What is it](#What-is-it)
 2. [Projects](#Projects):
-   * Knight[^1] - The project was completed during training in a free course at the KNOWER online school.
+   * [Knight](#Knight)
 
 ### What is it
 Here are my projects made during the Blender 3D course.
 
 ### Projects:
-[^1]: * Knight - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+[^1]:
+* Knight - this is my first project, completed during the free training course at the KNOWER online school.
+The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
 </div>
@@ -23,7 +25,7 @@ Here are my projects made during the Blender 3D course.
 ## Содержание
 1. [Что это](#Что-это)
 2. [Проекты](#Проекты):
-   * [Рыцарь](#Рыцарь) - Проект выполнен в ходе обучения на бесплатном курсе от онлай школы KNOWER.
+   * [Рыцарь](#Рыцарь)
 
 ### Что это
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
