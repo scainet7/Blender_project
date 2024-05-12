@@ -9,7 +9,7 @@
 ## Content
 1. [What is it](#What-is-it)
 2. [Projects](#Projects):
-   *. [Knight](#Knight) - The project was completed during training in a free course at the KNOWER online school.
+   * [Knight](#Knight) - The project was completed during training in a free course at the KNOWER online school.
 
 ### What is it
 Here are my projects made during the Blender 3D course.
