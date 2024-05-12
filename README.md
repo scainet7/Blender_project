@@ -15,8 +15,8 @@
 Here are my projects made during the Blender 3D course.
 
 ### Projects:
-1. Knight - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
- All files can be viewed here(https://github.com/scainet7/Blender_project/tree/master/Knight).
+1. [Knight] - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+ All files can be viewed [here](https://github.com/scainet7/Blender_project/tree/master/Knight).
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png"/>
 </div>
@@ -24,13 +24,13 @@ Here are my projects made during the Blender 3D course.
 ## Содержание
 1. [Что это](#Что-это)
 2. [Проекты](#Проекты):
-   *[Рыцарь](#Рыцарь) - Проект выполнен в ходе обучения на бесплатном курсе от онлай школы KNOWER.
+   * [Рыцарь](#Рыцарь) - Проект выполнен в ходе обучения на бесплатном курсе от онлай школы KNOWER.
 
 ### Что это
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
 
 ### Проекты:
-1. Рыцарь - Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице [Вконтакте](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).  Все файлы можно посмотреть здесь(https://github.com/scainet7/Blender_project/tree/master/Knight).
+1. Рыцарь - Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице [Вконтакте](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).  Все файлы можно посмотреть [здесь](https://github.com/scainet7/Blender_project/tree/master/Knight).
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png"/>
 </div>
