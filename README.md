@@ -15,7 +15,7 @@
 Here are my projects made during the Blender 3D course.
 
 ### Projects:
-1. [Knight] - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+1. Knight - this is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
  All files can be viewed [here](https://github.com/scainet7/Blender_project/tree/master/Knight).
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png"/>
