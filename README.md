@@ -8,7 +8,7 @@
 
 ## Content
 1. [What is it](#What-is-it)
-2. [Projects:](#Projects:)
+2. [Projects:](#Projects)
     a. [Knight](#Knight) - The project was completed during training in a free course at the KNOWER online school.
 
 ### What is it
