@@ -17,6 +17,7 @@ Here are my projects made during the Blender 3D course.
 ### Projects:
 * #### [Knight](https://github.com/scainet7/Blender_project/tree/master/Knight)
 This is my first project, completed during the free training course at the KNOWER online school. The course can be found on the [VKontakte page](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+When working with the project, you can find images of the final rendering, step-by-step Blender files and various materials.
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
 </div>
@@ -31,7 +32,7 @@ This is my first project, completed during the free training course at the KNOWE
 
 ### Проекты:
 * #### [Рыцарь](https://github.com/scainet7/Blender_project/tree/master/Knight)
-  Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице [Вконтакте](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev).
+  Это мой первый проект, выполненный в процессе бесплатного обучения на курсе от онлайн школы KNOWER. Курс можно найти на странице [Вконтакте](https://vk.com/@-119042932-s-chego-nachat-razvitie-v-gamedev). В папке с проектом можно найти изображенрие финального рендера, поэтапные blender файлы и различные материалы.
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Knight/Final_render.png" width="300"/>
 </div>
