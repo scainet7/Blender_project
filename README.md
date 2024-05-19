@@ -3,14 +3,15 @@
 </h1>
 
 ## Language
-* [English](#Content)
-* [Русский(Russian)](#Содержание)
+* [English]([#Content])
+* [Русский(Russian)]([#Содержание])
 
 ## Content
-1. [What is it](#What-is-it)
-2. [Projects](#Projects):
-   * [Knight](#Knight)
-   * [Quick start](#[Quick-start])
+1. [What is it]([#What-is-it])
+2. [Projects]([#Projects]):
+   * [Knight]([#Knight])
+   * [Quick start]([#Quick-start])
+   * [House in the forest]([#House-in-the-forest])
 
 ### What is it
 Here are my projects made during the Blender 3D course.
@@ -29,11 +30,15 @@ Second free course for beginners. You can get it by following [link](https://clo
     <img src="https://github.com/scainet7/Blender_project/blob/master/Quick_start_in_Blender/Render_house.png" width="300"/>
 </div>
 
+* ### [House in the forest](https://github.com/scainet7/Blender_project/tree/master/House_in_the_forest)
+  This project was completed in the process of completing a free course from the Kaino school. You can find it [here](https://online.kaino.ru/training/view/BlenderStart). I liked this course the most. For mastering basic tools, in my opinion, it is best suited. Maybe the version of the program used in the course is a little old, but I think it’s suitable for beginners.
+  
 ## Содержание
-1. [Что это](#Что-это)
-2. [Проекты](#Проекты):
-   * [Рыцарь](#Рыцарь)
-   * [Быстрый старт][#Быстрый-старт]
+1. [Что это]([#Что-это])
+2. [Проекты]([#Проекты]):
+   * [Рыцарь]([#Рыцарь[)
+   * [Быстрый старт]([#Быстрый-старт])
+   * [Домик в лесу]([#Домик-в-лесу])
 
 ### Что это
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
@@ -50,3 +55,6 @@ Second free course for beginners. You can get it by following [link](https://clo
   <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Quick_start_in_Blender/Render_house.png" width="300"/>
 </div>
+
+* ### [Домик в лесу](https://github.com/scainet7/Blender_project/tree/master/House_in_the_forest)
+  Этот проект выполнен в процессе выполнения бесплатного курса от школы Kaino. Найти его можно [здесь](https://online.kaino.ru/training/view/BlenderStart).  Данный курс, понравился мне больше всего. Для освоения базовых инструментов, на мой взгляд он подходит лучше всего. Может версия програмы, используемая в курсе, старовата, но для новичков мне кажется подойдет.
