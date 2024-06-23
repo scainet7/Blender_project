@@ -12,7 +12,7 @@
    * [Knight]([#Knight])
    * [Quick start]([#Quick-start])
    * [House in the forest]([#House-in-the-forest])
-   * [Yudaev_school](#Yudaev-school)
+   * [Yudaev_school]([#Yudaev-school])
 
 ### What is it
 Here are my projects made during the Blender 3D course.
@@ -49,7 +49,7 @@ Free quick Blender3D marathon from Yudaevschool. You can get it by following [li
    * [Рыцарь]([#Рыцарь[)
    * [Быстрый старт]([#Быстрый-старт])
    * [Домик в лесу]([#Домик-в-лесу])
-   * [Yudaevschool](#Yudaevschool)
+   * [Yudaevschool]([#Yudaevschool])
 
 ### Что это
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
