@@ -3,8 +3,8 @@
 </h1>
 
 ## Language
-* [English](#Content])
-* [Русский(Russian)]([#Содержание])
+* [English](#Content)
+* [Русский(Russian)](#Содержание)
 
 ## Content
 1. [What is it]([#What-is-it])
