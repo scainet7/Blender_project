@@ -71,7 +71,7 @@ Free quick Blender3D marathon from Yudaevschool. You can get it by following [li
 Этот проект выполнен в процессе выполнения бесплатного курса от школы Kaino. Найти его можно [здесь](https://online.kaino.ru/training/view/BlenderStart).  Данный курс, понравился мне больше всего. Для освоения базовых инструментов, на мой взгляд он подходит лучше всего. Может версия програмы, используемая в курсе, старовата, но для новичков мне кажется подойдет.
 
 * ### [Yudaevschool](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
-Бесплатный быстрый марафон по Blender3D от школы Yudaevschool. Получить его можно пройдя по [ссылке](https://run.yudaevschool24.online/lp/UgXJAkF8?r=174697285). Курс расяитан совсем для начинающих. Вы узнаете как бользоваться базовыми инструментами Blender, создатите цесколько разных сцен, с рендером, а самое интересное с анимацией.
+Бесплатный быстрый марафон по Blender3D от школы Yudaevschool. Получить его можно пройдя по [ссылке](https://run.yudaevschool24.online/lp/UgXJAkF8?r=174697285). Курс расчитан совсем для начинающих. Вы узнаете как бользоваться базовыми инструментами Blender, создатите цесколько разных сцен, с рендером, а самое интересное с анимацией.
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/First_render.png" width="300"/>
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/Second_render.png" width="300"/>
