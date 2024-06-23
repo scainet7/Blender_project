@@ -7,12 +7,12 @@
 * [Русский(Russian)](#Содержание)
 
 ## Content
-1. [What is it]([#What-is-it])
-2. [Projects]([#Projects]):
-   * [Knight]([#Knight])
-   * [Quick start]([#Quick-start])
-   * [House in the forest]([#House-in-the-forest])
-   * [Yudaev school]([#Yudaev-school])
+1. [What is it](#What-is-it)
+2. [Projects](#Projects):
+   * [Knight](#Knight)
+   * [Quick start](#Quick-start)
+   * [House in the forest](#House-in-the-forest)
+   * [Yudaev school](#Yudaev-school)
 
 ### What is it
 Here are my projects made during the Blender 3D course.
@@ -44,12 +44,12 @@ Free quick Blender3D marathon from Yudaevschool. You can get it by following [li
 
   
 ## Содержание
-1. [Что это]([#Что-это])
-2. [Проекты]([#Проекты]):
-   * [Рыцарь]([#Рыцарь[)
-   * [Быстрый старт]([#Быстрый-старт])
-   * [Домик в лесу]([#Домик-в-лесу])
-   * [Yudaevschool]([#Yudaevschool])
+1. [Что это](#Что-это)
+2. [Проекты](#Проекты):
+   * [Рыцарь](#Рыцарь)
+   * [Быстрый старт](#Быстрый-старт)
+   * [Домик в лесу](#Домик-в-лесу)
+   * [Yudaevschool](#Yudaevschool)
 
 ### Что это
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
