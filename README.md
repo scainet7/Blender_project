@@ -3,7 +3,7 @@
 </h1>
 
 ## Language
-* [English]([#Content])
+* [English](#Content])
 * [Русский(Russian)]([#Содержание])
 
 ## Content
@@ -12,7 +12,7 @@
    * [Knight]([#Knight])
    * [Quick start]([#Quick-start])
    * [House in the forest]([#House-in-the-forest])
-   * [Yudaev_school]([#Yudaev-school])
+   * [Yudaev school]([#Yudaev-school])
 
 ### What is it
 Here are my projects made during the Blender 3D course.
@@ -34,7 +34,7 @@ Second free course for beginners. You can get it by following [link](https://clo
 * ### [House in the forest](https://github.com/scainet7/Blender_project/tree/master/House_in_the_forest)
 This project was completed in the process of completing a free course from the Kaino school. You can find it [here](https://online.kaino.ru/training/view/BlenderStart). I liked this course the most. For mastering basic tools, in my opinion, it is best suited. Maybe the version of the program used in the course is a little old, but I think it’s suitable for beginners.
 
-* ### [Yudaev_school](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
+* ### [Yudaev school](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
 Free quick Blender3D marathon from Yudaevschool. You can get it by following [link](https://run.yudaevschool24.online/lp/UgXJAkF8?r=174697285). The course is designed completely for beginners. You will learn how to use the basic tools of Blender, create several different scenes, with rendering, and most interestingly, with animation.
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/First_render.png" width="300"/>
