@@ -34,7 +34,7 @@ Second free course for beginners. You can get it by following [link](https://clo
 * ### Mestical place](https://github.com/scainet7/Blender_project/tree/master/Mestical_place)
 This project was completed in the process of completing a free course from the Kaino school. You can find it [here](https://online.kaino.ru/training/view/BlenderStart). I liked this course the most. For mastering basic tools, in my opinion, it is best suited. Maybe the version of the program used in the course is a little old, but I think it’s suitable for beginners.
 <div id="badges">
-    <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical%20place/Mestical_20place.png" width="300"/>
+    <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical_place/Mestical%20place.png" width="300"/>
 </div>
 
 * ### [Yudaev.school](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
@@ -73,7 +73,7 @@ Free quick Blender3D marathon from Yudaev.school. You can get it by following [l
 * ### [Таинственное место](https://github.com/scainet7/Blender_project/tree/master/Mestical_place)
 Этот проект выполнен в процессе выполнения бесплатного курса от школы Kaino. Найти его можно [здесь](https://online.kaino.ru/training/view/BlenderStart).  Данный курс, понравился мне больше всего. Для освоения базовых инструментов, на мой взгляд он подходит лучше всего. Может версия програмы, используемая в курсе, старовата, но для новичков мне кажется подойдет.
 <div id="badges">
-    <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical%20place/Mestical_20place.png" width="300"/>
+    <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical_place/Mestical%20place.png" width="300"/>
 </div>
 
 * ### [Yudaev.school_](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
