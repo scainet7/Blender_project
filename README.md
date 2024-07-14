@@ -11,7 +11,7 @@
 2. [Projects](#Projects):
    * [Knight](#Knight)
    * [Quick start](#Quick-start)
-   * [House in the forest](#House-in-the-forest)
+   * [Mestical place](#Mestical-place)
    * [Yudaev.school](#Yudaev.school)
 
 ### What is it
@@ -31,8 +31,11 @@ Second free course for beginners. You can get it by following [link](https://clo
     <img src="https://github.com/scainet7/Blender_project/blob/master/Quick_start_in_Blender/Render_house.png" width="300"/>
 </div>
 
-* ### [House in the forest](https://github.com/scainet7/Blender_project/tree/master/House_in_the_forest)
+* ### Mestical place](https://github.com/scainet7/Blender_project/tree/master/Mestical_place)
 This project was completed in the process of completing a free course from the Kaino school. You can find it [here](https://online.kaino.ru/training/view/BlenderStart). I liked this course the most. For mastering basic tools, in my opinion, it is best suited. Maybe the version of the program used in the course is a little old, but I think it’s suitable for beginners.
+<div id="badges">
+    <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical%20place/Mestical_20place.png" width="300"/>
+</div>
 
 * ### [Yudaev.school](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
 Free quick Blender3D marathon from Yudaev.school. You can get it by following [link](https://run.yudaevschool24.online/lp/UgXJAkF8?r=174697285). The course is designed completely for beginners. You will learn how to use the basic tools of Blender, create several different scenes, with rendering, and most interestingly, with animation.
@@ -48,7 +51,7 @@ Free quick Blender3D marathon from Yudaev.school. You can get it by following [l
 2. [Проекты](#Проекты):
    * [Рыцарь](#Рыцарь)
    * [Быстрый старт](#Быстрый-старт)
-   * [Домик в лесу](#Домик-в-лесу)
+   * [Таинственное место](#Таинственное-место)
    * [Yudaev.school_](#Yudaev.school_)
 
 ### Что это
@@ -67,8 +70,11 @@ Free quick Blender3D marathon from Yudaev.school. You can get it by following [l
     <img src="https://github.com/scainet7/Blender_project/blob/master/Quick_start_in_Blender/Render_house.png" width="300"/>
 </div>
 
-* ### [Домик в лесу](https://github.com/scainet7/Blender_project/tree/master/House_in_the_forest)
+* ### [Таинственное место](https://github.com/scainet7/Blender_project/tree/master/Mestical_place)
 Этот проект выполнен в процессе выполнения бесплатного курса от школы Kaino. Найти его можно [здесь](https://online.kaino.ru/training/view/BlenderStart).  Данный курс, понравился мне больше всего. Для освоения базовых инструментов, на мой взгляд он подходит лучше всего. Может версия програмы, используемая в курсе, старовата, но для новичков мне кажется подойдет.
+<div id="badges">
+    <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical%20place/Mestical_20place.png" width="300"/>
+</div>
 
 * ### [Yudaev.school_](https://github.com/scainet7/Blender_project/tree/master/Yudaev_school)
 Бесплатный быстрый марафон по Blender3D от школы Yudaevschool. Получить его можно пройдя по [ссылке](https://run.yudaevschool24.online/lp/UgXJAkF8?r=174697285). Курс расчитан совсем для начинающих. Вы узнаете как бользоваться базовыми инструментами Blender, создатите несколько разных сцен, с рендером, а самое интересное с анимацией.
