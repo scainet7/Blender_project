@@ -31,7 +31,7 @@ Second free course for beginners. You can get it by following [link](https://clo
     <img src="https://github.com/scainet7/Blender_project/blob/master/Quick_start_in_Blender/Render_house.png" width="300"/>
 </div>
 
-* ### Mestical place](https://github.com/scainet7/Blender_project/tree/master/Mestical_place)
+* ### [Mestical place](https://github.com/scainet7/Blender_project/tree/master/Mestical_place)
 This project was completed in the process of completing a free course from the Kaino school. You can find it [here](https://online.kaino.ru/training/view/BlenderStart). I liked this course the most. For mastering basic tools, in my opinion, it is best suited. Maybe the version of the program used in the course is a little old, but I think it’s suitable for beginners.
 <div id="badges">
     <img src="https://github.com/scainet7/Blender_project/blob/master/Mestical_place/Mestical%20place.png" width="300"/>
