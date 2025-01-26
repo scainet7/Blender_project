@@ -90,6 +90,7 @@ Course by Denis Kozhar. The course will help you master the Blender program from
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/Second_render.png" width="300"/>
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/Third_render.png" width="300"/>
 </div>
+
 * ### [3D Дом](https://github.com/scainet7/Blender_project/tree/master/3D_House)
 Курс от Дениса Кожара. Курс поможет освоить программу Blender с нуля, понять основы ее работы и изучить различные инструменты, необходимые для создания 3D-моделей. Курс можно найти здесь.
 <div id="badges">
