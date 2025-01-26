@@ -13,6 +13,7 @@
    * [Quick start](#Quick-start)
    * [Mestical place](#Mestical-place)
    * [Yudaev.school](#Yudaev.school)
+   * [3D House](#3D-House)
 
 ### What is it
 Here are my projects made during the Blender 3D course.
@@ -45,6 +46,11 @@ Free quick Blender3D marathon from Yudaev.school. You can get it by following [l
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/Third_render.png" width="300"/>
 </div>
 
+* ### [3D House](https://github.com/scainet7/Blender_project/tree/master/3D_House)
+Course by Denis Kozhar. The course will help you master the Blender program from scratch, understand the basics of its work and study the various tools needed to create 3D models. The course can be found [here](https://vk.com/app7070938_-93368814#s=636944a96d51ba38e500bbf1&utm_source=vk&utm_medium=organic&utm_campaign=group).
+<div id="badges">
+    <img src="https://github.com/scainet7/Blender_project/blob/master/3D_House/3D_House.png" width="300"/>
+</div>
   
 ## Содержание
 1. [Что это](#Что-это)
@@ -53,6 +59,7 @@ Free quick Blender3D marathon from Yudaev.school. You can get it by following [l
    * [Быстрый старт](#Быстрый-старт)
    * [Таинственное место](#Таинственное-место)
    * [Yudaev.school_](#Yudaev.school_)
+   * [3D Дом](#3D-House_)
 
 ### Что это
 Здесь размещены мои проекты, выполненные в процессе обучения на курсах по Blender 3D.
@@ -82,4 +89,9 @@ Free quick Blender3D marathon from Yudaev.school. You can get it by following [l
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/First_render.png" width="300"/>
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/Second_render.png" width="300"/>
     <img src="https://github.com/scainet7/Blender_project/blob/master/Yudaev_school/Third_render.png" width="300"/>
+</div>
+* ### [3D Дом](https://github.com/scainet7/Blender_project/tree/master/3D_House)
+Курс от Дениса Кожара. Курс поможет освоить программу Blender с нуля, понять основы ее работы и изучить различные инструменты, необходимые для создания 3D-моделей. Курс можно найти здесь.
+<div id="badges">
+    <img src="https://github.com/scainet7/Blender_project/blob/master/3D_House/3D_House.png" width="300"/>
 </div>
